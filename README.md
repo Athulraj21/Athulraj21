@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Athulraj21
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React js
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me- athulraj655@gmail.com
+- ⚡ Fun fact: Noobie
 
 <!---
 Athulraj21/Athulraj21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
